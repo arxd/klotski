@@ -1,2 +1,3 @@
 # klotski
-Solving Klotski puzzles
+Multi-threaded Klotski puzzel solver and html5 solution viewer.
+
